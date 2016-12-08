@@ -73,7 +73,7 @@ table {
 
 
 
-.footer {
+footer {
     background: #EDEFF1;
     height: auto;
     padding-bottom: 30px;
@@ -103,4 +103,12 @@ table {
 .hoverButtons
 {
     width: 100px;
+}
+.footer-top-margin
+{
+    margin-top: 10px;
+}
+hr
+{
+    border-top: 1px solid #b7b0b0;
 }
